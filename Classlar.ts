@@ -28,7 +28,7 @@ class Employee extends Person {
   }
 
   changeDep() {
-    console.log("Department changed...");
+    console.log("Kamal changed Department...");
   }
 }
 
