@@ -28,7 +28,7 @@ class Employee extends Person {
   }
 
   changeDep() {
-    console.log("Kamal changed Department...");
+    console.log("Kamal changed Department...and added this line again after making commit");
   }
 }
 
