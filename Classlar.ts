@@ -1,3 +1,4 @@
+//test
 class Person {
   name: string;
   age: number;
@@ -28,7 +29,11 @@ class Employee extends Person {
   }
 
   changeDep() {
-    console.log("Kamal changed Department...and added this line again after making commit");
+
+    console.log("Alish changed Department...");
+    //Fix bugs here
+    //By Alishs machine
+
   }
 }
 
