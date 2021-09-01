@@ -1,4 +1,3 @@
-//test
 class Person {
   name: string;
   age: number;
