@@ -17,7 +17,7 @@ class Person {
   }
 }
 
-let person = new Person("Alish Safarli", 28, "0555333334");
+let person = new Person("Kamal Cafarov", 58, "0777477112");
 person.showInfos();
 
 class Employee extends Person {
@@ -31,3 +31,6 @@ class Employee extends Person {
     console.log("Department changed...");
   }
 }
+
+let emp = new Employee("Orxan Qurbanov", 45, 7774555, 1500);
+emp.showInfos();
